@@ -1,0 +1,14 @@
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\bin\Debug\net7.0\Pessoas_CoreShared.deps.json
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\bin\Debug\net7.0\Pessoas_CoreShared.runtimeconfig.json
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\bin\Debug\net7.0\Pessoas_CoreShared.dll
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\bin\Debug\net7.0\Pessoas_CoreShared.pdb
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\obj\Debug\net7.0\Pessoas_CoreShared.csproj.AssemblyReference.cache
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\obj\Debug\net7.0\Pessoas_CoreShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\obj\Debug\net7.0\Pessoas_CoreShared.AssemblyInfoInputs.cache
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\obj\Debug\net7.0\Pessoas_CoreShared.AssemblyInfo.cs
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\obj\Debug\net7.0\Pessoas_CoreShared.csproj.CoreCompileInputs.cache
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\obj\Debug\net7.0\Pessoas_CoreShared.dll
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\obj\Debug\net7.0\refint\Pessoas_CoreShared.dll
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\obj\Debug\net7.0\Pessoas_CoreShared.pdb
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\obj\Debug\net7.0\Pessoas_CoreShared.genruntimeconfig.cache
+C:\Users\Muginga\source\repos\Pessoas\Pessoas_CoreShared\obj\Debug\net7.0\ref\Pessoas_CoreShared.dll
